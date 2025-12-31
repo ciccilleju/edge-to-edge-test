@@ -1,0 +1,7 @@
+{
+  "name": "edge-to-edge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
